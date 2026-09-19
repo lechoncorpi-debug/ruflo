@@ -214,8 +214,8 @@ para(doc, "Nubank and the Decision to Take Digital Banking from Brazil to Mexico
 para(doc, "Case analyzed: Chu, M., Larangeira, C., & Levindo, P. (2020). *Nubank: Democratizing "
           "Financial Services* (HBS Case No. 321-068). Harvard Business School – Latin America Research Center.",
      size=10, align="center", color=GREY, space_after=2)
-para(doc, "Student: ______________________    Student ID: ____________    Professor: ______________________    "
-          "Date: September 2026", size=10, align="center", color=GREY, space_after=4)
+para(doc, "**Adrián Corpi Villaseñor**  ·  Student ID: AL03044078  ·  September 2026",
+     size=10.5, align="center", color=RGBColor(0x1F, 0x1F, 0x1F), space_after=4)
 
 # ---- 1. Case selection and location
 heading(doc, "1. The case I chose and where the story takes place")
@@ -604,7 +604,7 @@ for r in refs:
 
 doc.core_properties.title = "The Purple Card Goes North: Nubank and the Decision to Take Digital Banking from Brazil to Mexico"
 doc.core_properties.subject = "Doing Business in the Americas - Term Project Part 1"
-doc.core_properties.author = "Student"
+doc.core_properties.author = "Adrián Corpi Villaseñor"
 doc.core_properties.comments = ""
 doc.save(OUT)
 print("saved", OUT)

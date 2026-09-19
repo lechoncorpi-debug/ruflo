@@ -97,7 +97,7 @@ p.t-project  {{ text-align: center; font-size: 10pt; color: {GREY}; margin: 0 0 
 p.t-title    {{ text-align: center; font-size: 19pt; color: {PURPLE}; margin: 0 0 3pt 0; line-height: 1.2; }}
 p.t-subtitle {{ text-align: center; font-size: 12.5pt; color: #1f1f1f; margin: 0 0 8pt 0; }}
 p.t-case     {{ text-align: center; font-size: 9.5pt; color: {GREY}; margin: 0 0 6pt 0; }}
-p.t-student  {{ text-align: center; font-size: 9.5pt; color: #1f1f1f; margin: 0 0 4pt 0; }}
+p.t-student  {{ text-align: center; font-size: 10pt; color: #1f1f1f; margin: 0 0 4pt 0; }}
 
 p.cap {{ text-align: left; font-size: 9.6pt; margin: 6pt 0 3pt 0; page-break-after: avoid; }}
 p.src {{ text-align: left; font-size: 8.4pt; color: {GREY}; margin: 2pt 0 8pt 0; }}
@@ -178,7 +178,7 @@ def finish(out_pdf, font_dir):
     doc.set_metadata({
         "title": "The Purple Card Goes North: Nubank and the Decision to Take Digital Banking from Brazil to Mexico",
         "subject": "Doing Business in the Americas - Term Project Part 1",
-        "author": "Student",
+        "author": "Adrián Corpi Villaseñor",
         "creator": "build_pdf.py (PyMuPDF Story)",
     })
     try:
