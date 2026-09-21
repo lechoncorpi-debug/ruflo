@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Admin · Agregar propiedad | Punta Mita Homes</title>
+<meta name="description" content="Panel privado para agregar propiedades a la colección de Punta Mita Homes: fotos de Dropbox, datos biofílicos y exportación de properties.json.">
+<meta name="robots" content="noindex, nofollow">
+<link rel="canonical" href="https://puntamita.homes/admin.html">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%232A5439' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10Z'/%3E%3Cpath d='M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12'/%3E%3C/svg%3E">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@200..700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/estilo.css">
+<script>
+/* Mismo bloque de configuración que en index.html.
+   Puedes copiar/pegar entre ambos sin problema. */
+window.SITIO_CONFIG = {
+  fuente: { tipo: 'auto', url: '' },
+  contacto: {}
+};
+</script>
+</head>
+<body>
+
+<div class="admin-barra">
+  <div class="contenedor" style="display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;width:min(1280px,94vw)">
+    <h1>🌿 Admin · Colección Privada</h1>
+    <div class="acciones">
+      <button class="boton-mini" id="btn-descargar">Descargar properties.json</button>
+      <button class="boton-mini" id="btn-copiar-json">Copiar JSON</button>
+      <button class="boton-mini" id="btn-vaciar">Vaciar borrador</button>
+      <a class="boton-mini" href="index.html">Ver el sitio →</a>
+    </div>
+  </div>
+</div>
+
+<main class="contenedor admin-cuerpo" style="width:min(1280px,94vw)">
+
+  <!-- ================= COLUMNA IZQUIERDA ================= -->
+  <div>
+    <section class="panel">
+      <h2>Agregar una propiedad</h2>
+      <p class="nota" style="margin-top:0">
+        Llena los campos, pulsa <b>Agregar a la colección</b> y después
+        <b>Descargar properties.json</b>. Ese archivo es el que va a tu carpeta
+        de Dropbox / repositorio de GitHub.
+      </p>
+
+      <h3>Datos generales</h3>
+      <div class="fila2">
+        <div class="campo"><label for="p-nombre">Nombre de la propiedad *</label>
+          <input id="p-nombre" placeholder="Casa Selva, Playa Destiladeras"></div>
+        <div class="campo"><label for="p-orden">Orden de aparición</label>
+          <input id="p-orden" type="number" placeholder="1"></div>
+      </div>
+      <div class="fila2">
+        <div class="campo"><label for="p-destino">Destino *</label>
+          <select id="p-destino">
+            <option value="riviera-nayarit">Riviera Nayarit</option>
+            <option value="riviera-maya">Riviera Maya</option>
+            <option value="puerto-vallarta">Puerto Vallarta</option>
+            <option value="tulum">Tulum</option>
+          </select></div>
+        <div class="campo"><label for="p-zona">Zona / comunidad</label>
+          <input id="p-zona" placeholder="Punta de Mita · Aldea Zamá"></div>
+      </div>
+      <div class="fila2">
+        <div class="campo"><label for="p-tipo">Tipo</label>
+          <input id="p-tipo" placeholder="Villa frente al mar / Departamento / Homesite"></div>
+        <div class="campo"><label for="p-status">Etiqueta</label>
+          <select id="p-status">
+            <option value="">Sin etiqueta</option>
+            <option value="nuevo">Nueva</option>
+            <option value="preventa">Preventa</option>
+            <option value="exclusiva">Exclusiva</option>
+          </select></div>
+      </div>
+
+      <h3>Precio y especificaciones</h3>
+      <div class="fila2">
+        <div class="campo"><label for="p-precio">Precio en USD (o «a-consulta»)</label>
+          <input id="p-precio" placeholder="1850000"></div>
+        <div class="campo"><label for="p-entrega">Entrega</label>
+          <input id="p-entrega" placeholder="Inmediata / Dic 2027"></div>
+      </div>
+      <div class="fila2">
+        <div class="campo"><label for="p-recamaras">Recámaras</label><input id="p-recamaras" type="number"></div>
+        <div class="campo"><label for="p-banos">Baños</label><input id="p-banos" type="number" step="0.5"></div>
+      </div>
+      <div class="fila2">
+        <div class="campo"><label for="p-m2">m² construcción</label><input id="p-m2" type="number"></div>
+        <div class="campo"><label for="p-terreno">m² terreno</label><input id="p-terreno" type="number"></div>
+      </div>
+
+      <h3>Textos</h3>
+      <div class="campo"><label for="p-corta">Descripción corta (tarjeta)</label>
+        <input id="p-corta" placeholder="Residencia de 3 niveles con alberca infinita y vista al Pacífico."></div>
+      <div class="campo"><label for="p-larga">Descripción completa</label>
+        <textarea id="p-larga" placeholder="Cuenta la historia del lugar: luz, vegetación, materiales, estilo de vida…"></textarea></div>
+      <div class="campo"><label for="p-amenidades">Amenidades (una por línea)</label>
+        <textarea id="p-amenidades" placeholder="Alberca infinita&#10;Acceso directo a playa&#10;Jardín con vegetación nativa"></textarea></div>
+
+      <h3>Fotografías</h3>
+      <div class="campo"><label for="p-fotos">Enlaces de imagen (uno por línea) — Dropbox, Instagram CDN, tu web…</label>
+        <textarea id="p-fotos" placeholder="https://www.dropbox.com/scl/fi/xxxx/foto1.jpg?rlkey=...&#10;https://...foto2.jpg"></textarea></div>
+      <div class="campo"><label for="p-material">Material de ventas (Nombre :: enlace, uno por línea)</label>
+        <textarea id="p-material" placeholder="Lista de precios :: https://www.dropbox.com/.../MAE.pdf&#10;Sales Deck :: https://..."></textarea></div>
+      <p class="nota">Los enlaces de Dropbox se convierten automáticamente a descarga
+      directa (<code>dl=1</code>). Para que funcionen en el sitio, el archivo debe
+      estar compartido con «cualquier persona con el enlace».</p>
+
+      <div style="display:flex;gap:.6rem;flex-wrap:wrap;margin-top:1.6rem">
+        <button class="btn" id="btn-agregar">Agregar a la colección</button>
+        <button class="btn contorno" id="btn-limpiar">Limpiar formulario</button>
+      </div>
+      <p class="nota" id="aviso-form" hidden></p>
+    </section>
+
+    <!-- Convertidor de enlaces -->
+    <section class="panel" style="margin-top:2rem">
+      <h2>Convertidor de enlaces de Dropbox</h2>
+      <div class="campo"><label for="db-entrada">Pega un enlace compartido (archivo o carpeta)</label>
+        <input id="db-entrada" placeholder="https://www.dropbox.com/scl/fo/xxxx/yyyy?rlkey=zzzz"></div>
+      <div style="display:flex;gap:.6rem;flex-wrap:wrap">
+        <button class="btn contorno" id="btn-convertir">Convertir</button>
+      </div>
+      <pre class="pre" id="db-salida">El enlace convertido aparecerá aquí.</pre>
+      <p class="nota" id="db-tipo"></p>
+    </section>
+  </div>
+
+  <!-- ================= COLUMNA DERECHA ================= -->
+  <div>
+    <section class="panel">
+      <h2>Colección actual <span id="conteo" style="font-family:var(--sans);font-size:.8rem;color:#6A7C71"></span></h2>
+      <ul class="lista-admin" id="lista"></ul>
+      <p class="nota">
+        El borrador se guarda en <b>este navegador</b> (localStorage) para que no
+        pierdas lo capturado. Lo permanente es el archivo
+        <code>properties.json</code> que descargas y subes a Dropbox/GitHub.
+      </p>
+    </section>
+
+    <section class="panel" style="margin-top:2rem">
+      <h2>Vista previa del JSON</h2>
+      <pre class="pre" id="preview">{ "propiedades": [] }</pre>
+    </section>
+
+    <section class="panel" style="margin-top:2rem">
+      <h2>Configurar la fuente del sitio</h2>
+      <p class="nota" style="margin-top:0">
+        Pega el enlace de tu carpeta de Dropbox (o el <code>raw</code> de GitHub) y
+        copia la línea que se genera a <code>window.SITIO_CONFIG.fuente</code> en
+        <code>index.html</code>. En la pestaña de Dropbox de la carpeta:
+        <b>Compartir → Cualquier persona con el enlace → Copiar enlace</b>.
+      </p>
+      <div class="campo"><label for="db-config-url">Enlace de tu fuente de propiedades</label>
+        <input id="db-config-url" placeholder="https://www.dropbox.com/scl/fo/XXXX/YYYY?rlkey=ZZZZ"></div>
+      <pre class="pre" id="snippet-fuente">fuente: { tipo: 'carpeta', url: 'PEGA_AQUI_TU_ENLACE' }</pre>
+      <button class="btn contorno" id="btn-copiar-snippet" style="margin-top:1rem">Copiar configuración</button>
+    </section>
+  </div>
+</main>
+
+<script src="js/cargador.js"></script>
+<script src="js/admin.js"></script>
+</body>
+</html>

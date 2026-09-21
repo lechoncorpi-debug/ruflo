@@ -1,0 +1,1160 @@
+{
+  "propiedades": [
+    {
+      "id": "PH-65",
+      "orden": 1,
+      "nombre": "MAENA · PH-65",
+      "destino": "riviera-nayarit",
+      "zona": "Punta del Burro · Punta de Mita",
+      "tipo": "Penthouse Classic",
+      "status": "preventa",
+      "precio": 4465173,
+      "entrega": "Q4 2026",
+      "descripcionCorta": "Penthouse de 679 m² en Torre 6, vista directa al Pacífico.",
+      "descripcion": "Penthouse Classic de 679 m² en MAENA, la colección íntima de 53 residencias frente al mar entre Punta del Burro y Punta de Mita. Arquitectura de Elías Rizo que dialoga con el clima y la vegetación nativa, interiores de Estudio CGZ y hospitalidad de hotel boutique. Terrazas profundas, luz del Pacífico y el sonido del mar como parte de la casa. Precio de la lista oficial «MPLJN26MSRII», sujeto a cambio sin previo aviso.",
+      "specs": {
+        "recamaras": 5,
+        "banos": null,
+        "m2": 679,
+        "terreno": null
+      },
+      "amenidades": [
+        "Frente al mar · 200 m de playa",
+        "Vista directa al océano",
+        "Club de playa",
+        "Albercas y pool house",
+        "Spa y temazcal",
+        "Gimnasio",
+        "Restaurante",
+        "Servicio tipo hotel (Blackdoor)",
+        "Elevador",
+        "Cuarto de servicio",
+        "Arquitectura: Elías Rizo",
+        "Paisaje: Maat Handasa"
+      ],
+      "fotos": [
+        "img/maena-ph.jpg",
+        "img/maena-t67.jpg",
+        "img/maena-terraza.jpg",
+        "img/maena-albercas.jpg",
+        "img/maena-club.jpg"
+      ],
+      "material": [
+        {
+          "nombre": "Lista de precios (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AD_6otrmClSAECvi8fvjPp4/Lista%20de%20Precios/MAE_MPLJN26MSRII.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Sales Deck ES (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRMWUBjzLjzLctp3n-FP6U/Para%20compartir%20con%20clientes/MAENA-Sales%20Deck-ES.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Teaser (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AKre8X1I42yyqoaggzZ3cZQ/Para%20compartir%20con%20clientes/MAENA-Teaser.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Ubicación (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/ACTdckB2R5f5M5tJpeZtZwI/Para%20compartir%20con%20clientes/MAENA%20Ubicaci%C3%B3n.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Plan maestro (PNG)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRVchRf28lnPF7a0mQ-UP4/Para%20compartir%20con%20clientes/MAENA%20Plan%20maestro.png?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "maena.mx",
+          "url": "https://maena.mx"
+        }
+      ],
+      "torre": "Torre 6"
+    },
+    {
+      "id": "PH-75",
+      "orden": 2,
+      "nombre": "MAENA · PH-75",
+      "destino": "riviera-nayarit",
+      "zona": "Punta del Burro · Punta de Mita",
+      "tipo": "Penthouse Classic",
+      "status": "preventa",
+      "precio": 4534696,
+      "entrega": "Q4 2026",
+      "descripcionCorta": "Penthouse de 675 m² en Torre 7, vista directa al Pacífico.",
+      "descripcion": "Penthouse Classic de 675 m² en MAENA, la colección íntima de 53 residencias frente al mar entre Punta del Burro y Punta de Mita. Arquitectura de Elías Rizo que dialoga con el clima y la vegetación nativa, interiores de Estudio CGZ y hospitalidad de hotel boutique. Terrazas profundas, luz del Pacífico y el sonido del mar como parte de la casa. Precio de la lista oficial «MPLJN26MSRII», sujeto a cambio sin previo aviso.",
+      "specs": {
+        "recamaras": 5,
+        "banos": null,
+        "m2": 675,
+        "terreno": null
+      },
+      "amenidades": [
+        "Frente al mar · 200 m de playa",
+        "Vista directa al océano",
+        "Club de playa",
+        "Albercas y pool house",
+        "Spa y temazcal",
+        "Gimnasio",
+        "Restaurante",
+        "Servicio tipo hotel (Blackdoor)",
+        "Elevador",
+        "Cuarto de servicio",
+        "Arquitectura: Elías Rizo",
+        "Paisaje: Maat Handasa"
+      ],
+      "fotos": [
+        "img/maena-t67.jpg",
+        "img/maena-ph.jpg",
+        "img/maena-terraza.jpg",
+        "img/maena-albercas.jpg",
+        "img/maena-club.jpg"
+      ],
+      "material": [
+        {
+          "nombre": "Lista de precios (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AD_6otrmClSAECvi8fvjPp4/Lista%20de%20Precios/MAE_MPLJN26MSRII.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Sales Deck ES (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRMWUBjzLjzLctp3n-FP6U/Para%20compartir%20con%20clientes/MAENA-Sales%20Deck-ES.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Teaser (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AKre8X1I42yyqoaggzZ3cZQ/Para%20compartir%20con%20clientes/MAENA-Teaser.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Ubicación (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/ACTdckB2R5f5M5tJpeZtZwI/Para%20compartir%20con%20clientes/MAENA%20Ubicaci%C3%B3n.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Plan maestro (PNG)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRVchRf28lnPF7a0mQ-UP4/Para%20compartir%20con%20clientes/MAENA%20Plan%20maestro.png?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "maena.mx",
+          "url": "https://maena.mx"
+        }
+      ],
+      "torre": "Torre 7"
+    },
+    {
+      "id": "PH-35",
+      "orden": 3,
+      "nombre": "MAENA · PH-35",
+      "destino": "riviera-nayarit",
+      "zona": "Punta del Burro · Punta de Mita",
+      "tipo": "Penthouse Classic",
+      "status": "preventa",
+      "precio": 4891308,
+      "entrega": "Q4 2026",
+      "descripcionCorta": "Penthouse de 674 m² en Torre 3, vista directa al Pacífico.",
+      "descripcion": "Penthouse Classic de 674 m² en MAENA, la colección íntima de 53 residencias frente al mar entre Punta del Burro y Punta de Mita. Arquitectura de Elías Rizo que dialoga con el clima y la vegetación nativa, interiores de Estudio CGZ y hospitalidad de hotel boutique. Terrazas profundas, luz del Pacífico y el sonido del mar como parte de la casa. Precio de la lista oficial «MPLJN26MSRII», sujeto a cambio sin previo aviso.",
+      "specs": {
+        "recamaras": 5,
+        "banos": null,
+        "m2": 674,
+        "terreno": null
+      },
+      "amenidades": [
+        "Frente al mar · 200 m de playa",
+        "Vista directa al océano",
+        "Club de playa",
+        "Albercas y pool house",
+        "Spa y temazcal",
+        "Gimnasio",
+        "Restaurante",
+        "Servicio tipo hotel (Blackdoor)",
+        "Elevador",
+        "Cuarto de servicio",
+        "Arquitectura: Elías Rizo",
+        "Paisaje: Maat Handasa"
+      ],
+      "fotos": [
+        "img/maena-ph.jpg",
+        "img/maena-t67.jpg",
+        "img/maena-terraza.jpg",
+        "img/maena-albercas.jpg",
+        "img/maena-club.jpg"
+      ],
+      "material": [
+        {
+          "nombre": "Lista de precios (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AD_6otrmClSAECvi8fvjPp4/Lista%20de%20Precios/MAE_MPLJN26MSRII.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Sales Deck ES (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRMWUBjzLjzLctp3n-FP6U/Para%20compartir%20con%20clientes/MAENA-Sales%20Deck-ES.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Teaser (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AKre8X1I42yyqoaggzZ3cZQ/Para%20compartir%20con%20clientes/MAENA-Teaser.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Ubicación (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/ACTdckB2R5f5M5tJpeZtZwI/Para%20compartir%20con%20clientes/MAENA%20Ubicaci%C3%B3n.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Plan maestro (PNG)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRVchRf28lnPF7a0mQ-UP4/Para%20compartir%20con%20clientes/MAENA%20Plan%20maestro.png?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "maena.mx",
+          "url": "https://maena.mx"
+        }
+      ],
+      "torre": "Torre 3"
+    },
+    {
+      "id": "R-63",
+      "orden": 4,
+      "nombre": "MAENA · R-63",
+      "destino": "riviera-nayarit",
+      "zona": "Punta del Burro · Punta de Mita",
+      "tipo": "Residencia Classic",
+      "status": "preventa",
+      "precio": 2957029,
+      "entrega": "Q4 2026",
+      "descripcionCorta": "Residencia de 417 m² en Torre 6, vista directa al Pacífico.",
+      "descripcion": "Residencia Classic de 417 m² en MAENA, la colección íntima de 53 residencias frente al mar entre Punta del Burro y Punta de Mita. Arquitectura de Elías Rizo que dialoga con el clima y la vegetación nativa, interiores de Estudio CGZ y hospitalidad de hotel boutique. Terrazas profundas, luz del Pacífico y el sonido del mar como parte de la casa. Precio de la lista oficial «MPLJN26MSRII», sujeto a cambio sin previo aviso.",
+      "specs": {
+        "recamaras": 4,
+        "banos": null,
+        "m2": 417,
+        "terreno": null
+      },
+      "amenidades": [
+        "Frente al mar · 200 m de playa",
+        "Vista directa al océano",
+        "Club de playa",
+        "Albercas y pool house",
+        "Spa y temazcal",
+        "Gimnasio",
+        "Restaurante",
+        "Servicio tipo hotel (Blackdoor)",
+        "Elevador",
+        "Cuarto de servicio",
+        "Arquitectura: Elías Rizo",
+        "Paisaje: Maat Handasa"
+      ],
+      "fotos": [
+        "img/maena-sala.jpg",
+        "img/maena-t67.jpg",
+        "img/maena-rec.jpg",
+        "img/maena-terraza.jpg",
+        "img/maena-albercas.jpg",
+        "img/maena-club.jpg"
+      ],
+      "material": [
+        {
+          "nombre": "Lista de precios (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AD_6otrmClSAECvi8fvjPp4/Lista%20de%20Precios/MAE_MPLJN26MSRII.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Sales Deck ES (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRMWUBjzLjzLctp3n-FP6U/Para%20compartir%20con%20clientes/MAENA-Sales%20Deck-ES.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Teaser (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AKre8X1I42yyqoaggzZ3cZQ/Para%20compartir%20con%20clientes/MAENA-Teaser.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Ubicación (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/ACTdckB2R5f5M5tJpeZtZwI/Para%20compartir%20con%20clientes/MAENA%20Ubicaci%C3%B3n.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Plan maestro (PNG)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRVchRf28lnPF7a0mQ-UP4/Para%20compartir%20con%20clientes/MAENA%20Plan%20maestro.png?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "maena.mx",
+          "url": "https://maena.mx"
+        }
+      ],
+      "torre": "Torre 6"
+    },
+    {
+      "id": "R-72",
+      "orden": 5,
+      "nombre": "MAENA · R-72",
+      "destino": "riviera-nayarit",
+      "zona": "Punta del Burro · Punta de Mita",
+      "tipo": "Residencia Classic",
+      "status": "preventa",
+      "precio": 2845599,
+      "entrega": "Q4 2026",
+      "descripcionCorta": "Residencia de 415 m² en Torre 7, vista directa al Pacífico.",
+      "descripcion": "Residencia Classic de 415 m² en MAENA, la colección íntima de 53 residencias frente al mar entre Punta del Burro y Punta de Mita. Arquitectura de Elías Rizo que dialoga con el clima y la vegetación nativa, interiores de Estudio CGZ y hospitalidad de hotel boutique. Terrazas profundas, luz del Pacífico y el sonido del mar como parte de la casa. Precio de la lista oficial «MPLJN26MSRII», sujeto a cambio sin previo aviso.",
+      "specs": {
+        "recamaras": 4,
+        "banos": null,
+        "m2": 415,
+        "terreno": null
+      },
+      "amenidades": [
+        "Frente al mar · 200 m de playa",
+        "Vista directa al océano",
+        "Club de playa",
+        "Albercas y pool house",
+        "Spa y temazcal",
+        "Gimnasio",
+        "Restaurante",
+        "Servicio tipo hotel (Blackdoor)",
+        "Elevador",
+        "Cuarto de servicio",
+        "Arquitectura: Elías Rizo",
+        "Paisaje: Maat Handasa"
+      ],
+      "fotos": [
+        "img/maena-recpint.jpg",
+        "img/maena-t67.jpg",
+        "img/maena-sala.jpg",
+        "img/maena-rec.jpg",
+        "img/maena-terraza.jpg",
+        "img/maena-albercas.jpg",
+        "img/maena-club.jpg"
+      ],
+      "material": [
+        {
+          "nombre": "Lista de precios (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AD_6otrmClSAECvi8fvjPp4/Lista%20de%20Precios/MAE_MPLJN26MSRII.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Sales Deck ES (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRMWUBjzLjzLctp3n-FP6U/Para%20compartir%20con%20clientes/MAENA-Sales%20Deck-ES.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Teaser (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AKre8X1I42yyqoaggzZ3cZQ/Para%20compartir%20con%20clientes/MAENA-Teaser.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Ubicación (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/ACTdckB2R5f5M5tJpeZtZwI/Para%20compartir%20con%20clientes/MAENA%20Ubicaci%C3%B3n.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Plan maestro (PNG)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRVchRf28lnPF7a0mQ-UP4/Para%20compartir%20con%20clientes/MAENA%20Plan%20maestro.png?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "maena.mx",
+          "url": "https://maena.mx"
+        }
+      ],
+      "torre": "Torre 7"
+    },
+    {
+      "id": "R-53",
+      "orden": 6,
+      "nombre": "MAENA · R-53",
+      "destino": "riviera-nayarit",
+      "zona": "Punta del Burro · Punta de Mita",
+      "tipo": "Residencia Classic",
+      "status": "preventa",
+      "precio": 2871985,
+      "entrega": "Q4 2026",
+      "descripcionCorta": "Residencia de 415 m² en Torre 5, vista directa al Pacífico.",
+      "descripcion": "Residencia Classic de 415 m² en MAENA, la colección íntima de 53 residencias frente al mar entre Punta del Burro y Punta de Mita. Arquitectura de Elías Rizo que dialoga con el clima y la vegetación nativa, interiores de Estudio CGZ y hospitalidad de hotel boutique. Terrazas profundas, luz del Pacífico y el sonido del mar como parte de la casa. Precio de la lista oficial «MPLJN26MSRII», sujeto a cambio sin previo aviso.",
+      "specs": {
+        "recamaras": 4,
+        "banos": null,
+        "m2": 415,
+        "terreno": null
+      },
+      "amenidades": [
+        "Frente al mar · 200 m de playa",
+        "Vista directa al océano",
+        "Club de playa",
+        "Albercas y pool house",
+        "Spa y temazcal",
+        "Gimnasio",
+        "Restaurante",
+        "Servicio tipo hotel (Blackdoor)",
+        "Elevador",
+        "Cuarto de servicio",
+        "Arquitectura: Elías Rizo",
+        "Paisaje: Maat Handasa"
+      ],
+      "fotos": [
+        "img/maena-rec.jpg",
+        "img/maena-t67.jpg",
+        "img/maena-sala.jpg",
+        "img/maena-terraza.jpg",
+        "img/maena-albercas.jpg",
+        "img/maena-club.jpg"
+      ],
+      "material": [
+        {
+          "nombre": "Lista de precios (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AD_6otrmClSAECvi8fvjPp4/Lista%20de%20Precios/MAE_MPLJN26MSRII.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Sales Deck ES (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRMWUBjzLjzLctp3n-FP6U/Para%20compartir%20con%20clientes/MAENA-Sales%20Deck-ES.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Teaser (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AKre8X1I42yyqoaggzZ3cZQ/Para%20compartir%20con%20clientes/MAENA-Teaser.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Ubicación (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/ACTdckB2R5f5M5tJpeZtZwI/Para%20compartir%20con%20clientes/MAENA%20Ubicaci%C3%B3n.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Plan maestro (PNG)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRVchRf28lnPF7a0mQ-UP4/Para%20compartir%20con%20clientes/MAENA%20Plan%20maestro.png?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "maena.mx",
+          "url": "https://maena.mx"
+        }
+      ],
+      "torre": "Torre 5"
+    },
+    {
+      "id": "R-73",
+      "orden": 7,
+      "nombre": "MAENA · R-73",
+      "destino": "riviera-nayarit",
+      "zona": "Punta del Burro · Punta de Mita",
+      "tipo": "Residencia Classic",
+      "status": "preventa",
+      "precio": 2960277,
+      "entrega": "Q4 2026",
+      "descripcionCorta": "Residencia de 415 m² en Torre 7, vista directa al Pacífico.",
+      "descripcion": "Residencia Classic de 415 m² en MAENA, la colección íntima de 53 residencias frente al mar entre Punta del Burro y Punta de Mita. Arquitectura de Elías Rizo que dialoga con el clima y la vegetación nativa, interiores de Estudio CGZ y hospitalidad de hotel boutique. Terrazas profundas, luz del Pacífico y el sonido del mar como parte de la casa. Precio de la lista oficial «MPLJN26MSRII», sujeto a cambio sin previo aviso.",
+      "specs": {
+        "recamaras": 4,
+        "banos": null,
+        "m2": 415,
+        "terreno": null
+      },
+      "amenidades": [
+        "Frente al mar · 200 m de playa",
+        "Vista directa al océano",
+        "Club de playa",
+        "Albercas y pool house",
+        "Spa y temazcal",
+        "Gimnasio",
+        "Restaurante",
+        "Servicio tipo hotel (Blackdoor)",
+        "Elevador",
+        "Cuarto de servicio",
+        "Arquitectura: Elías Rizo",
+        "Paisaje: Maat Handasa"
+      ],
+      "fotos": [
+        "img/maena-social.jpg",
+        "img/maena-t67.jpg",
+        "img/maena-sala.jpg",
+        "img/maena-rec.jpg",
+        "img/maena-terraza.jpg",
+        "img/maena-albercas.jpg",
+        "img/maena-club.jpg"
+      ],
+      "material": [
+        {
+          "nombre": "Lista de precios (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AD_6otrmClSAECvi8fvjPp4/Lista%20de%20Precios/MAE_MPLJN26MSRII.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Sales Deck ES (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRMWUBjzLjzLctp3n-FP6U/Para%20compartir%20con%20clientes/MAENA-Sales%20Deck-ES.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Teaser (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AKre8X1I42yyqoaggzZ3cZQ/Para%20compartir%20con%20clientes/MAENA-Teaser.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Ubicación (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/ACTdckB2R5f5M5tJpeZtZwI/Para%20compartir%20con%20clientes/MAENA%20Ubicaci%C3%B3n.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Plan maestro (PNG)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRVchRf28lnPF7a0mQ-UP4/Para%20compartir%20con%20clientes/MAENA%20Plan%20maestro.png?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "maena.mx",
+          "url": "https://maena.mx"
+        }
+      ],
+      "torre": "Torre 7"
+    },
+    {
+      "id": "R-32",
+      "orden": 8,
+      "nombre": "MAENA · R-32",
+      "destino": "riviera-nayarit",
+      "zona": "Punta del Burro · Punta de Mita",
+      "tipo": "Residencia Classic",
+      "status": "preventa",
+      "precio": 3045621,
+      "entrega": "Q4 2026",
+      "descripcionCorta": "Residencia de 414 m² en Torre 3, vista directa al Pacífico.",
+      "descripcion": "Residencia Classic de 414 m² en MAENA, la colección íntima de 53 residencias frente al mar entre Punta del Burro y Punta de Mita. Arquitectura de Elías Rizo que dialoga con el clima y la vegetación nativa, interiores de Estudio CGZ y hospitalidad de hotel boutique. Terrazas profundas, luz del Pacífico y el sonido del mar como parte de la casa. Precio de la lista oficial «MPLJN26MSRII», sujeto a cambio sin previo aviso.",
+      "specs": {
+        "recamaras": 4,
+        "banos": null,
+        "m2": 414,
+        "terreno": null
+      },
+      "amenidades": [
+        "Frente al mar · 200 m de playa",
+        "Vista directa al océano",
+        "Club de playa",
+        "Albercas y pool house",
+        "Spa y temazcal",
+        "Gimnasio",
+        "Restaurante",
+        "Servicio tipo hotel (Blackdoor)",
+        "Elevador",
+        "Cuarto de servicio",
+        "Arquitectura: Elías Rizo",
+        "Paisaje: Maat Handasa"
+      ],
+      "fotos": [
+        "img/maena-recpint.jpg",
+        "img/maena-t67.jpg",
+        "img/maena-sala.jpg",
+        "img/maena-rec.jpg",
+        "img/maena-terraza.jpg",
+        "img/maena-albercas.jpg",
+        "img/maena-club.jpg"
+      ],
+      "material": [
+        {
+          "nombre": "Lista de precios (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AD_6otrmClSAECvi8fvjPp4/Lista%20de%20Precios/MAE_MPLJN26MSRII.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Sales Deck ES (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRMWUBjzLjzLctp3n-FP6U/Para%20compartir%20con%20clientes/MAENA-Sales%20Deck-ES.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Teaser (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AKre8X1I42yyqoaggzZ3cZQ/Para%20compartir%20con%20clientes/MAENA-Teaser.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Ubicación (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/ACTdckB2R5f5M5tJpeZtZwI/Para%20compartir%20con%20clientes/MAENA%20Ubicaci%C3%B3n.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Plan maestro (PNG)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRVchRf28lnPF7a0mQ-UP4/Para%20compartir%20con%20clientes/MAENA%20Plan%20maestro.png?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "maena.mx",
+          "url": "https://maena.mx"
+        }
+      ],
+      "torre": "Torre 3"
+    },
+    {
+      "id": "R-33",
+      "orden": 9,
+      "nombre": "MAENA · R-33",
+      "destino": "riviera-nayarit",
+      "zona": "Punta del Burro · Punta de Mita",
+      "tipo": "Residencia Classic",
+      "status": "preventa",
+      "precio": 3194671,
+      "entrega": "Q4 2026",
+      "descripcionCorta": "Residencia de 414 m² en Torre 3, vista directa al Pacífico.",
+      "descripcion": "Residencia Classic de 414 m² en MAENA, la colección íntima de 53 residencias frente al mar entre Punta del Burro y Punta de Mita. Arquitectura de Elías Rizo que dialoga con el clima y la vegetación nativa, interiores de Estudio CGZ y hospitalidad de hotel boutique. Terrazas profundas, luz del Pacífico y el sonido del mar como parte de la casa. Precio de la lista oficial «MPLJN26MSRII», sujeto a cambio sin previo aviso.",
+      "specs": {
+        "recamaras": 4,
+        "banos": null,
+        "m2": 414,
+        "terreno": null
+      },
+      "amenidades": [
+        "Frente al mar · 200 m de playa",
+        "Vista directa al océano",
+        "Club de playa",
+        "Albercas y pool house",
+        "Spa y temazcal",
+        "Gimnasio",
+        "Restaurante",
+        "Servicio tipo hotel (Blackdoor)",
+        "Elevador",
+        "Cuarto de servicio",
+        "Arquitectura: Elías Rizo",
+        "Paisaje: Maat Handasa"
+      ],
+      "fotos": [
+        "img/maena-social.jpg",
+        "img/maena-t67.jpg",
+        "img/maena-sala.jpg",
+        "img/maena-rec.jpg",
+        "img/maena-terraza.jpg",
+        "img/maena-albercas.jpg",
+        "img/maena-club.jpg"
+      ],
+      "material": [
+        {
+          "nombre": "Lista de precios (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AD_6otrmClSAECvi8fvjPp4/Lista%20de%20Precios/MAE_MPLJN26MSRII.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Sales Deck ES (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRMWUBjzLjzLctp3n-FP6U/Para%20compartir%20con%20clientes/MAENA-Sales%20Deck-ES.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Teaser (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AKre8X1I42yyqoaggzZ3cZQ/Para%20compartir%20con%20clientes/MAENA-Teaser.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Ubicación (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/ACTdckB2R5f5M5tJpeZtZwI/Para%20compartir%20con%20clientes/MAENA%20Ubicaci%C3%B3n.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Plan maestro (PNG)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRVchRf28lnPF7a0mQ-UP4/Para%20compartir%20con%20clientes/MAENA%20Plan%20maestro.png?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "maena.mx",
+          "url": "https://maena.mx"
+        }
+      ],
+      "torre": "Torre 3"
+    },
+    {
+      "id": "R-34",
+      "orden": 10,
+      "nombre": "MAENA · R-34",
+      "destino": "riviera-nayarit",
+      "zona": "Punta del Burro · Punta de Mita",
+      "tipo": "Residencia Classic",
+      "status": "preventa",
+      "precio": 3316586,
+      "entrega": "Q4 2026",
+      "descripcionCorta": "Residencia de 414 m² en Torre 3, vista directa al Pacífico.",
+      "descripcion": "Residencia Classic de 414 m² en MAENA, la colección íntima de 53 residencias frente al mar entre Punta del Burro y Punta de Mita. Arquitectura de Elías Rizo que dialoga con el clima y la vegetación nativa, interiores de Estudio CGZ y hospitalidad de hotel boutique. Terrazas profundas, luz del Pacífico y el sonido del mar como parte de la casa. Precio de la lista oficial «MPLJN26MSRII», sujeto a cambio sin previo aviso.",
+      "specs": {
+        "recamaras": 4,
+        "banos": null,
+        "m2": 414,
+        "terreno": null
+      },
+      "amenidades": [
+        "Frente al mar · 200 m de playa",
+        "Vista directa al océano",
+        "Club de playa",
+        "Albercas y pool house",
+        "Spa y temazcal",
+        "Gimnasio",
+        "Restaurante",
+        "Servicio tipo hotel (Blackdoor)",
+        "Elevador",
+        "Cuarto de servicio",
+        "Arquitectura: Elías Rizo",
+        "Paisaje: Maat Handasa"
+      ],
+      "fotos": [
+        "img/maena-sala.jpg",
+        "img/maena-t67.jpg",
+        "img/maena-rec.jpg",
+        "img/maena-terraza.jpg",
+        "img/maena-albercas.jpg",
+        "img/maena-club.jpg"
+      ],
+      "material": [
+        {
+          "nombre": "Lista de precios (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AD_6otrmClSAECvi8fvjPp4/Lista%20de%20Precios/MAE_MPLJN26MSRII.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Sales Deck ES (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRMWUBjzLjzLctp3n-FP6U/Para%20compartir%20con%20clientes/MAENA-Sales%20Deck-ES.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Teaser (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AKre8X1I42yyqoaggzZ3cZQ/Para%20compartir%20con%20clientes/MAENA-Teaser.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Ubicación (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/ACTdckB2R5f5M5tJpeZtZwI/Para%20compartir%20con%20clientes/MAENA%20Ubicaci%C3%B3n.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Plan maestro (PNG)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRVchRf28lnPF7a0mQ-UP4/Para%20compartir%20con%20clientes/MAENA%20Plan%20maestro.png?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "maena.mx",
+          "url": "https://maena.mx"
+        }
+      ],
+      "torre": "Torre 3"
+    },
+    {
+      "id": "PH-95",
+      "orden": 11,
+      "nombre": "MAENA · PH-95",
+      "destino": "riviera-nayarit",
+      "zona": "Punta del Burro · Punta de Mita",
+      "tipo": "Penthouse Signature",
+      "status": "preventa",
+      "precio": 5533143,
+      "entrega": "Q4 2026",
+      "descripcionCorta": "Penthouse de 845 m² en Torre 9, vista directa al Pacífico.",
+      "descripcion": "Penthouse Signature de 845 m² en MAENA, la colección íntima de 53 residencias frente al mar entre Punta del Burro y Punta de Mita. Arquitectura de Elías Rizo que dialoga con el clima y la vegetación nativa, interiores de Estudio CGZ y hospitalidad de hotel boutique. Terrazas profundas, luz del Pacífico y el sonido del mar como parte de la casa. Precio de la lista oficial «MPLJN26MSRII», sujeto a cambio sin previo aviso.",
+      "specs": {
+        "recamaras": 6,
+        "banos": null,
+        "m2": 845,
+        "terreno": null
+      },
+      "amenidades": [
+        "Frente al mar · 200 m de playa",
+        "Vista directa al océano",
+        "Club de playa",
+        "Albercas y pool house",
+        "Spa y temazcal",
+        "Gimnasio",
+        "Restaurante",
+        "Servicio tipo hotel (Blackdoor)",
+        "Elevador",
+        "Cuarto de servicio",
+        "Arquitectura: Elías Rizo",
+        "Paisaje: Maat Handasa"
+      ],
+      "fotos": [
+        "img/maena-terraza.jpg",
+        "img/maena-t8910.jpg",
+        "img/maena-ph.jpg",
+        "img/maena-albercas.jpg",
+        "img/maena-club.jpg"
+      ],
+      "material": [
+        {
+          "nombre": "Lista de precios (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AD_6otrmClSAECvi8fvjPp4/Lista%20de%20Precios/MAE_MPLJN26MSRII.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Sales Deck ES (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRMWUBjzLjzLctp3n-FP6U/Para%20compartir%20con%20clientes/MAENA-Sales%20Deck-ES.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Teaser (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AKre8X1I42yyqoaggzZ3cZQ/Para%20compartir%20con%20clientes/MAENA-Teaser.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Ubicación (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/ACTdckB2R5f5M5tJpeZtZwI/Para%20compartir%20con%20clientes/MAENA%20Ubicaci%C3%B3n.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Plan maestro (PNG)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRVchRf28lnPF7a0mQ-UP4/Para%20compartir%20con%20clientes/MAENA%20Plan%20maestro.png?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "maena.mx",
+          "url": "https://maena.mx"
+        }
+      ],
+      "torre": "Torre 9"
+    },
+    {
+      "id": "R-94",
+      "orden": 12,
+      "nombre": "MAENA · R-94",
+      "destino": "riviera-nayarit",
+      "zona": "Punta del Burro · Punta de Mita",
+      "tipo": "Residencia Signature",
+      "status": "preventa",
+      "precio": 3797826,
+      "entrega": "Q4 2026",
+      "descripcionCorta": "Residencia de 536 m² en Torre 9, vista directa al Pacífico.",
+      "descripcion": "Residencia Signature de 536 m² en MAENA, la colección íntima de 53 residencias frente al mar entre Punta del Burro y Punta de Mita. Arquitectura de Elías Rizo que dialoga con el clima y la vegetación nativa, interiores de Estudio CGZ y hospitalidad de hotel boutique. Terrazas profundas, luz del Pacífico y el sonido del mar como parte de la casa. Precio de la lista oficial «MPLJN26MSRII», sujeto a cambio sin previo aviso.",
+      "specs": {
+        "recamaras": 5,
+        "banos": null,
+        "m2": 536,
+        "terreno": null
+      },
+      "amenidades": [
+        "Frente al mar · 200 m de playa",
+        "Vista directa al océano",
+        "Club de playa",
+        "Albercas y pool house",
+        "Spa y temazcal",
+        "Gimnasio",
+        "Restaurante",
+        "Servicio tipo hotel (Blackdoor)",
+        "Elevador",
+        "Cuarto de servicio",
+        "Arquitectura: Elías Rizo",
+        "Paisaje: Maat Handasa"
+      ],
+      "fotos": [
+        "img/maena-t8910.jpg",
+        "img/maena-sala.jpg",
+        "img/maena-rec.jpg",
+        "img/maena-terraza.jpg",
+        "img/maena-albercas.jpg",
+        "img/maena-club.jpg"
+      ],
+      "material": [
+        {
+          "nombre": "Lista de precios (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AD_6otrmClSAECvi8fvjPp4/Lista%20de%20Precios/MAE_MPLJN26MSRII.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Sales Deck ES (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRMWUBjzLjzLctp3n-FP6U/Para%20compartir%20con%20clientes/MAENA-Sales%20Deck-ES.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Teaser (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AKre8X1I42yyqoaggzZ3cZQ/Para%20compartir%20con%20clientes/MAENA-Teaser.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Ubicación (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/ACTdckB2R5f5M5tJpeZtZwI/Para%20compartir%20con%20clientes/MAENA%20Ubicaci%C3%B3n.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Plan maestro (PNG)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRVchRf28lnPF7a0mQ-UP4/Para%20compartir%20con%20clientes/MAENA%20Plan%20maestro.png?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "maena.mx",
+          "url": "https://maena.mx"
+        }
+      ],
+      "torre": "Torre 9"
+    },
+    {
+      "id": "R-82",
+      "orden": 13,
+      "nombre": "MAENA · R-82",
+      "destino": "riviera-nayarit",
+      "zona": "Punta del Burro · Punta de Mita",
+      "tipo": "Residencia Signature",
+      "status": "preventa",
+      "precio": 3447613,
+      "entrega": "Q4 2026",
+      "descripcionCorta": "Residencia de 531 m² en Torre 8, vista directa al Pacífico.",
+      "descripcion": "Residencia Signature de 531 m² en MAENA, la colección íntima de 53 residencias frente al mar entre Punta del Burro y Punta de Mita. Arquitectura de Elías Rizo que dialoga con el clima y la vegetación nativa, interiores de Estudio CGZ y hospitalidad de hotel boutique. Terrazas profundas, luz del Pacífico y el sonido del mar como parte de la casa. Precio de la lista oficial «MPLJN26MSRII», sujeto a cambio sin previo aviso.",
+      "specs": {
+        "recamaras": 5,
+        "banos": null,
+        "m2": 531,
+        "terreno": null
+      },
+      "amenidades": [
+        "Frente al mar · 200 m de playa",
+        "Vista directa al océano",
+        "Club de playa",
+        "Albercas y pool house",
+        "Spa y temazcal",
+        "Gimnasio",
+        "Restaurante",
+        "Servicio tipo hotel (Blackdoor)",
+        "Elevador",
+        "Cuarto de servicio",
+        "Arquitectura: Elías Rizo",
+        "Paisaje: Maat Handasa"
+      ],
+      "fotos": [
+        "img/maena-terraza.jpg",
+        "img/maena-t8910.jpg",
+        "img/maena-sala.jpg",
+        "img/maena-rec.jpg",
+        "img/maena-albercas.jpg",
+        "img/maena-club.jpg"
+      ],
+      "material": [
+        {
+          "nombre": "Lista de precios (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AD_6otrmClSAECvi8fvjPp4/Lista%20de%20Precios/MAE_MPLJN26MSRII.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Sales Deck ES (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRMWUBjzLjzLctp3n-FP6U/Para%20compartir%20con%20clientes/MAENA-Sales%20Deck-ES.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Teaser (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AKre8X1I42yyqoaggzZ3cZQ/Para%20compartir%20con%20clientes/MAENA-Teaser.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Ubicación (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/ACTdckB2R5f5M5tJpeZtZwI/Para%20compartir%20con%20clientes/MAENA%20Ubicaci%C3%B3n.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Plan maestro (PNG)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRVchRf28lnPF7a0mQ-UP4/Para%20compartir%20con%20clientes/MAENA%20Plan%20maestro.png?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "maena.mx",
+          "url": "https://maena.mx"
+        }
+      ],
+      "torre": "Torre 8"
+    },
+    {
+      "id": "R-102",
+      "orden": 14,
+      "nombre": "MAENA · R-102",
+      "destino": "riviera-nayarit",
+      "zona": "Punta del Burro · Punta de Mita",
+      "tipo": "Residencia Signature",
+      "status": "preventa",
+      "precio": 3867533,
+      "entrega": "Q4 2026",
+      "descripcionCorta": "Residencia de 518 m² en Torre 10, vista directa al Pacífico.",
+      "descripcion": "Residencia Signature de 518 m² en MAENA, la colección íntima de 53 residencias frente al mar entre Punta del Burro y Punta de Mita. Arquitectura de Elías Rizo que dialoga con el clima y la vegetación nativa, interiores de Estudio CGZ y hospitalidad de hotel boutique. Terrazas profundas, luz del Pacífico y el sonido del mar como parte de la casa. Precio de la lista oficial «MPLJN26MSRII», sujeto a cambio sin previo aviso.",
+      "specs": {
+        "recamaras": 5,
+        "banos": null,
+        "m2": 518,
+        "terreno": null
+      },
+      "amenidades": [
+        "Frente al mar · 200 m de playa",
+        "Vista directa al océano",
+        "Club de playa",
+        "Albercas y pool house",
+        "Spa y temazcal",
+        "Gimnasio",
+        "Restaurante",
+        "Servicio tipo hotel (Blackdoor)",
+        "Elevador",
+        "Cuarto de servicio",
+        "Arquitectura: Elías Rizo",
+        "Paisaje: Maat Handasa"
+      ],
+      "fotos": [
+        "img/maena-albercas.jpg",
+        "img/maena-t8910.jpg",
+        "img/maena-sala.jpg",
+        "img/maena-rec.jpg",
+        "img/maena-terraza.jpg",
+        "img/maena-club.jpg"
+      ],
+      "material": [
+        {
+          "nombre": "Lista de precios (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AD_6otrmClSAECvi8fvjPp4/Lista%20de%20Precios/MAE_MPLJN26MSRII.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Sales Deck ES (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRMWUBjzLjzLctp3n-FP6U/Para%20compartir%20con%20clientes/MAENA-Sales%20Deck-ES.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Teaser (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AKre8X1I42yyqoaggzZ3cZQ/Para%20compartir%20con%20clientes/MAENA-Teaser.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Ubicación (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/ACTdckB2R5f5M5tJpeZtZwI/Para%20compartir%20con%20clientes/MAENA%20Ubicaci%C3%B3n.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Plan maestro (PNG)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRVchRf28lnPF7a0mQ-UP4/Para%20compartir%20con%20clientes/MAENA%20Plan%20maestro.png?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "maena.mx",
+          "url": "https://maena.mx"
+        }
+      ],
+      "torre": "Torre 10"
+    },
+    {
+      "id": "R-103",
+      "orden": 15,
+      "nombre": "MAENA · R-103",
+      "destino": "riviera-nayarit",
+      "zona": "Punta del Burro · Punta de Mita",
+      "tipo": "Residencia Signature",
+      "status": "preventa",
+      "precio": 4090048,
+      "entrega": "Q4 2026",
+      "descripcionCorta": "Residencia de 518 m² en Torre 10, vista directa al Pacífico.",
+      "descripcion": "Residencia Signature de 518 m² en MAENA, la colección íntima de 53 residencias frente al mar entre Punta del Burro y Punta de Mita. Arquitectura de Elías Rizo que dialoga con el clima y la vegetación nativa, interiores de Estudio CGZ y hospitalidad de hotel boutique. Terrazas profundas, luz del Pacífico y el sonido del mar como parte de la casa. Precio de la lista oficial «MPLJN26MSRII», sujeto a cambio sin previo aviso.",
+      "specs": {
+        "recamaras": 5,
+        "banos": null,
+        "m2": 518,
+        "terreno": null
+      },
+      "amenidades": [
+        "Frente al mar · 200 m de playa",
+        "Vista directa al océano",
+        "Club de playa",
+        "Albercas y pool house",
+        "Spa y temazcal",
+        "Gimnasio",
+        "Restaurante",
+        "Servicio tipo hotel (Blackdoor)",
+        "Elevador",
+        "Cuarto de servicio",
+        "Arquitectura: Elías Rizo",
+        "Paisaje: Maat Handasa"
+      ],
+      "fotos": [
+        "img/maena-t8910.jpg",
+        "img/maena-sala.jpg",
+        "img/maena-rec.jpg",
+        "img/maena-terraza.jpg",
+        "img/maena-albercas.jpg",
+        "img/maena-club.jpg"
+      ],
+      "material": [
+        {
+          "nombre": "Lista de precios (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AD_6otrmClSAECvi8fvjPp4/Lista%20de%20Precios/MAE_MPLJN26MSRII.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Sales Deck ES (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRMWUBjzLjzLctp3n-FP6U/Para%20compartir%20con%20clientes/MAENA-Sales%20Deck-ES.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Teaser (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AKre8X1I42yyqoaggzZ3cZQ/Para%20compartir%20con%20clientes/MAENA-Teaser.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Ubicación (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/ACTdckB2R5f5M5tJpeZtZwI/Para%20compartir%20con%20clientes/MAENA%20Ubicaci%C3%B3n.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Plan maestro (PNG)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRVchRf28lnPF7a0mQ-UP4/Para%20compartir%20con%20clientes/MAENA%20Plan%20maestro.png?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "maena.mx",
+          "url": "https://maena.mx"
+        }
+      ],
+      "torre": "Torre 10"
+    },
+    {
+      "id": "R-12",
+      "orden": 16,
+      "nombre": "MAENA · R-12",
+      "destino": "riviera-nayarit",
+      "zona": "Punta del Burro · Punta de Mita",
+      "tipo": "Residencia Signature",
+      "status": "preventa",
+      "precio": 4167308,
+      "entrega": "Q4 2026",
+      "descripcionCorta": "Residencia de 518 m² en Torre 1, vista directa al Pacífico.",
+      "descripcion": "Residencia Signature de 518 m² en MAENA, la colección íntima de 53 residencias frente al mar entre Punta del Burro y Punta de Mita. Arquitectura de Elías Rizo que dialoga con el clima y la vegetación nativa, interiores de Estudio CGZ y hospitalidad de hotel boutique. Terrazas profundas, luz del Pacífico y el sonido del mar como parte de la casa. Precio de la lista oficial «MPLJN26MSRII», sujeto a cambio sin previo aviso.",
+      "specs": {
+        "recamaras": 5,
+        "banos": null,
+        "m2": 518,
+        "terreno": null
+      },
+      "amenidades": [
+        "Frente al mar · 200 m de playa",
+        "Vista directa al océano",
+        "Club de playa",
+        "Albercas y pool house",
+        "Spa y temazcal",
+        "Gimnasio",
+        "Restaurante",
+        "Servicio tipo hotel (Blackdoor)",
+        "Elevador",
+        "Cuarto de servicio",
+        "Arquitectura: Elías Rizo",
+        "Paisaje: Maat Handasa"
+      ],
+      "fotos": [
+        "img/maena-rec.jpg",
+        "img/maena-general.jpg",
+        "img/maena-sala.jpg",
+        "img/maena-terraza.jpg",
+        "img/maena-albercas.jpg",
+        "img/maena-club.jpg"
+      ],
+      "material": [
+        {
+          "nombre": "Lista de precios (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AD_6otrmClSAECvi8fvjPp4/Lista%20de%20Precios/MAE_MPLJN26MSRII.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Sales Deck ES (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRMWUBjzLjzLctp3n-FP6U/Para%20compartir%20con%20clientes/MAENA-Sales%20Deck-ES.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Teaser (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AKre8X1I42yyqoaggzZ3cZQ/Para%20compartir%20con%20clientes/MAENA-Teaser.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Ubicación (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/ACTdckB2R5f5M5tJpeZtZwI/Para%20compartir%20con%20clientes/MAENA%20Ubicaci%C3%B3n.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Plan maestro (PNG)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRVchRf28lnPF7a0mQ-UP4/Para%20compartir%20con%20clientes/MAENA%20Plan%20maestro.png?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "maena.mx",
+          "url": "https://maena.mx"
+        }
+      ],
+      "torre": "Torre 1"
+    },
+    {
+      "id": "R-18",
+      "orden": 17,
+      "nombre": "MAENA · R-18",
+      "destino": "riviera-nayarit",
+      "zona": "Punta del Burro · Punta de Mita",
+      "tipo": "Residencia Signature",
+      "status": "preventa",
+      "precio": 4334001,
+      "entrega": "Q4 2026",
+      "descripcionCorta": "Residencia de 518 m² en Torre 1, vista directa al Pacífico.",
+      "descripcion": "Residencia Signature de 518 m² en MAENA, la colección íntima de 53 residencias frente al mar entre Punta del Burro y Punta de Mita. Arquitectura de Elías Rizo que dialoga con el clima y la vegetación nativa, interiores de Estudio CGZ y hospitalidad de hotel boutique. Terrazas profundas, luz del Pacífico y el sonido del mar como parte de la casa. Precio de la lista oficial «MPLJN26MSRII», sujeto a cambio sin previo aviso.",
+      "specs": {
+        "recamaras": 5,
+        "banos": null,
+        "m2": 518,
+        "terreno": null
+      },
+      "amenidades": [
+        "Frente al mar · 200 m de playa",
+        "Vista directa al océano",
+        "Club de playa",
+        "Albercas y pool house",
+        "Spa y temazcal",
+        "Gimnasio",
+        "Restaurante",
+        "Servicio tipo hotel (Blackdoor)",
+        "Elevador",
+        "Cuarto de servicio",
+        "Arquitectura: Elías Rizo",
+        "Paisaje: Maat Handasa"
+      ],
+      "fotos": [
+        "img/maena-general.jpg",
+        "img/maena-sala.jpg",
+        "img/maena-rec.jpg",
+        "img/maena-terraza.jpg",
+        "img/maena-albercas.jpg",
+        "img/maena-club.jpg"
+      ],
+      "material": [
+        {
+          "nombre": "Lista de precios (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AD_6otrmClSAECvi8fvjPp4/Lista%20de%20Precios/MAE_MPLJN26MSRII.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Sales Deck ES (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRMWUBjzLjzLctp3n-FP6U/Para%20compartir%20con%20clientes/MAENA-Sales%20Deck-ES.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Teaser (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AKre8X1I42yyqoaggzZ3cZQ/Para%20compartir%20con%20clientes/MAENA-Teaser.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Ubicación (PDF)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/ACTdckB2R5f5M5tJpeZtZwI/Para%20compartir%20con%20clientes/MAENA%20Ubicaci%C3%B3n.pdf?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "Plan maestro (PNG)",
+          "url": "https://www.dropbox.com/scl/fo/t5k4bsugfm2ffqybgw6j1/AJRVchRf28lnPF7a0mQ-UP4/Para%20compartir%20con%20clientes/MAENA%20Plan%20maestro.png?rlkey=4gaao1pckf62wkovq1uv4a7jr&dl=0"
+        },
+        {
+          "nombre": "maena.mx",
+          "url": "https://maena.mx"
+        }
+      ],
+      "torre": "Torre 1"
+    }
+  ]
+}

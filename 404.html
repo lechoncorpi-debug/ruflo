@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Página no encontrada (404) · Punta Mita Homes</title>
+<meta name="description" content="La ruta que buscabas no existe en Punta Mita Homes. Vuelve a la colección privada de residencias biofílicas en Riviera Nayarit y Riviera Maya.">
+<meta name="robots" content="noindex">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%232A5439' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10Z'/%3E%3Cpath d='M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12'/%3E%3C/svg%3E">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@200..700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/estilo.css">
+<style>
+  .perdido{min-height:100vh;display:grid;place-items:center;text-align:center;padding:6rem 1.5rem;position:relative;overflow:hidden}
+  .perdido .hoja{position:absolute;font-size:2rem;opacity:.18;animation:caer 9s linear infinite}
+  @keyframes caer{from{transform:translateY(-10vh) rotate(0)}to{transform:translateY(110vh) rotate(320deg)}}
+  .perdido h1{font-family:'Outfit',system-ui,sans-serif;font-weight:200;letter-spacing:.06em;font-size:clamp(4rem,14vw,9rem);color:#2A5439;margin:0;line-height:1}
+  .perdido p{max-width:34rem;margin:1rem auto 2rem;color:#41564a}
+  .perdido .ruta{font-family:monospace;background:#e8ede6;border-radius:.5rem;padding:.15rem .5rem}
+</style>
+</head>
+<body>
+<main class="perdido">
+  <span class="hoja" style="left:12%;animation-delay:0s">🌿</span>
+  <span class="hoja" style="left:38%;animation-delay:3s">🍃</span>
+  <span class="hoja" style="left:64%;animation-delay:1.5s">🌿</span>
+  <span class="hoja" style="left:86%;animation-delay:5s">🍃</span>
+  <div>
+    <p style="font-family:'Outfit',system-ui,sans-serif;font-weight:600;letter-spacing:.3em;text-transform:uppercase;color:#2A5439;margin:0 0 1rem">Punta Mita Homes</p>
+    <h1>404</h1>
+    <p>Este sendero no lleva a ninguna propiedad. La ruta
+       <span class="ruta" id="ruta">…</span> no existe en nuestra colección.</p>
+    <p><a class="btn-cta" href="index.html" style="display:inline-block;background:#2A5439;color:#F2EFE6;padding:.9rem 2rem;border-radius:999px;text-decoration:none;letter-spacing:.08em">← Volver a la colección</a></p>
+  </div>
+</main>
+<script>document.getElementById('ruta').textContent = location.pathname;</script>
+</body>
+</html>

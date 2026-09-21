@@ -1,0 +1,29 @@
+# Punta Mita Homes
+
+> Colección privada de residencias y homesites biofílicos en la Riviera Nayarit
+> (Punta de Mita) y Riviera Maya, curada por Jaime Valdés, consultor de real
+> estate biofílico. Sitio estático en español; los datos de disponibilidad y
+> precios viven en properties.json y se actualizan desde el material oficial
+> de cada desarrollo en Dropbox.
+
+## Sitio
+
+- [Colección Privada](https://puntamita.homes/): página principal con
+  propiedades disponibles en Punta de Mita (MAENA) y Riviera Maya, enfoque
+  biofílico y contacto vía Instagram @puntamita.homes.
+- [properties.json](https://puntamita.homes/properties.json): manifest JSON
+  con las propiedades publicadas (nombre, zona, precio, superficies, fotos y
+  documentación).
+- [PROMPT-PROPIEDADES.md](https://puntamita.homes/PROMPT-PROPIEDADES.md):
+  plantilla de prompt para agregar propiedades una por una con ayuda de una IA.
+
+## Desarrollo destacado
+
+- MAENA Punta de Mita: 53 residencias frente al mar (4–7 recámaras, desde 415 m²),
+  arquitectura de Elías Rizo, entrega 2026. Disponibilidad y precios en vivo en
+  la colección.
+
+## Contacto
+
+- Instagram: https://www.instagram.com/puntamita.homes
+- MAENA: hi@maena.mx · +52 33 3476 2525
